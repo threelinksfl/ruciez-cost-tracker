@@ -1,10 +1,10 @@
-// Paste your Firebase web app settings here (see SETUP-GUIDE.md, step 2).
-// These values are meant to be public. Your data is protected by the rules in firestore.rules, not by hiding this file.
+// Firebase web app settings for the Ruciez cost tracker.
+// These values are meant to be public. Your data is protected by the database rules, not by hiding this file.
 window.FIREBASE_CONFIG = {
-  apiKey: "PASTE",
-  authDomain: "PASTE",
-  projectId: "PASTE",
-  storageBucket: "PASTE",
-  messagingSenderId: "PASTE",
-  appId: "PASTE"
+  apiKey: "AIzaSyAT3UzPlxWtXR1XaeG0cxTFPYAmvj8_8yg",
+  authDomain: "ruciez-cost-tracker.firebaseapp.com",
+  projectId: "ruciez-cost-tracker",
+  storageBucket: "ruciez-cost-tracker.firebasestorage.app",
+  messagingSenderId: "54146846404",
+  appId: "1:54146846404:web:7282c128c1f741cb5a8391"
 };
